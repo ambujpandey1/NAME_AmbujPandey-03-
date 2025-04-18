@@ -54,7 +54,7 @@ This project proposes a **redesigned YouTube comment experience**, introducing a
 Check out the interactive Figma prototype and walkthrough video:
 
 - 🔗 [Live Figma Prototype](https://www.figma.com/proto/WWvezNieeCikMCbWi9mkpJ/YouTube?node-id=5-3&p=f&t=OTHgNv697F6msTCn-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3)  
-- 📽️ [Full Presentation Video](https://www.figma.com/proto/WWvezNieeCikMCbWi9mkpJ/YouTube?node-id=5-)
+- 📽️ [Full Presentation Video](https://drive.google.com/file/d/1BFO2RFccLNEITNTMfr1neduTTKnOgkol/view?usp=drive_link)
 
 ---
 
